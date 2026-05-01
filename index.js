@@ -1,5 +1,9 @@
 let firstName = 'jack';
-let jobTitle = 'cook';
+let jobTitle = 'cooks';
 let city = 'Pheonix'; 
 
-let newJobPost = `Amazing ${firstName}
+let newJobPost = `your ${firstName}
+let newJobPost = `their ${jobTitle}
+let newJobPost = `hes ${city}
+
+document.getElementById("result").innerHTML = newJobPost

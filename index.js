@@ -1,6 +1,6 @@
-let firstName = 'jack';
-let jobTitle = 'cooks';
-let city = 'Pheonix'; 
+let firstName = jack;
+let jobTitle = cooks;
+let city = Pheonix; 
 
 let newJobPost = `your ${firstName}
 let newJobPost = `their ${jobTitle}

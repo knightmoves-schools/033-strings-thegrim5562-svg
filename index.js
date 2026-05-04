@@ -1,9 +1,9 @@
-let firstName = jack;
-let jobTitle = cooks;
-let city = Pheonix; 
+let firstName = 'jack';
+let jobTitle = 'cooks';
+let city = 'Pheonix'; 
 
-let newJobPost = `your ${firstName}
-let newJobPost = `their ${jobTitle}
-let newJobPost = `hes ${city}
+let newJobPost = `hello ${firstName}, you have been scheduled for an interview as a ${jobTitle} the interview is located at ${city}`
+           
+
 
 document.getElementById("result").innerHTML = newJobPost
